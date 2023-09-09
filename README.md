@@ -20,7 +20,7 @@
 
 #### New Todo:
 ![New](./images/TodoNew.png)
-## Minimun Viable Product
+## Minimum Viable Product
 * Creating new todos
 * Deleting any completed todos
 * Crossing out any possible done todos
